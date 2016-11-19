@@ -1,0 +1,114 @@
+body 
+{
+    text-align:center;
+    background-color:#D3D5D7;
+}
+
+#webPage
+{
+    width:960px;
+    display:inline-block;
+}
+
+a:hover  /* Turns black when the cursor is pointing to it */
+{
+    background-color: #D3D5D7;
+}
+
+.header
+{
+    margin:0px;
+    padding:24px 0px 24px 0px;
+    background-color:#62929E;
+    text-align:center;
+    width:960px;
+    font-family: 'Share Tech Mono', monospace, 'Times New Roman', Verdana;  /* Using Google fonts */  
+}
+
+
+.navigationBar /* Used for the Navigation Bar */
+{
+    margin:24px 0px 24px 0px;
+    padding:0px;
+    width:160px;
+    float:left;
+    background-color:#62929E;
+    height:200px;
+}
+
+#lb{ height: 150px; }
+
+
+
+.navigationBarButton    /* For the navigation bar buttons */
+{
+    font-size:40px;
+    font-family:'Times New Roman', Verdana;
+    padding:5px 20px;
+    width:160px;
+    height: 100px;
+    text-decoration:none;
+    background-color:#62929E;
+    color:black;
+    text-align:center;
+    float:left;
+}
+
+#activePage
+{
+    background-color:;
+}
+
+#picWelcome
+{
+    float:right;
+    margin: 5px 0px  5px 0px;
+    border:20px solid #D3D5D7;
+    width: 700px;
+    height: 500px;
+    
+   
+}
+
+.pageContent  /* Section that contains the images and text */
+{
+    width:60px;
+    color:#3d3a42;
+    margin:0px;
+    padding:0px;
+    float:right;
+    text-align:left;
+}
+
+
+
+#footer /* Used for the Footer */
+{
+    margin:0px;
+    padding:0px;
+    width:960px;
+    height: 20px;
+    position: absolute; top: 875px;
+    clear: both;
+    background-color:#62929E;
+   
+}
+
+p
+{
+    font-family:'Times New Roman', Verdana;
+    font-size:18px;
+    margin:24px 24px 24px 24px;
+    float:left;
+}
+
+.contentwords{
+    text-align: center;
+    height: 100px;
+    width: 920px;
+     margin: 5px 0px 00px 0px;
+    border:20px solid #D3D5D7;
+    
+    
+}
+
